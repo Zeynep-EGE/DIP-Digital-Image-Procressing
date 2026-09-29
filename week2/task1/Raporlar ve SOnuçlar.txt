@@ -1,0 +1,16 @@
+
+Bu kodu yazmama rağmen yeni yeni kullanmaya başladığım JetBrains CLion un kullanım zorluğundan yazdığım kodu çalıştırana kadar
+çok uğraştım. ama bunun kullanımını öğrendiğimde derslerimi daha zamanında ekleyeceğim
+
+bunun dışında proje Raporu olarak çıktı ve kıyaslama süreli aşağıdadır. Resimler ise Klasörün içindedir
+
+--- KIYASLAMA ---
+CPU: 231.678 ms
+GPU: 598.385 ms
+Hizlanma: 0.387172xS
+
+
+Ad: Zeynep Ege Karacabey
+No : 20242013089
+Yapılış Tarihi : 29.09.2026
+Saat: 23.28
